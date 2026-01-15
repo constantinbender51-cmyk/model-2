@@ -1,7 +1,7 @@
 {
   "asset": "BTCUSDT",
   "interval": "1h",
-  "timestamp": "2026-01-15T20:15:57.577741",
+  "timestamp": "2026-01-15T21:11:47.141613",
   "holdout_stats": {
     "accuracy": 78.82352941176471,
     "trades": 85
